@@ -158,4 +158,4 @@ async def play_audio(ctx, filename):
     await vc.disconnect()
 
 
-bot.run(config['token'])
+bot.run('MTA4MjIyMTg4MTYyNjczODY4OQ.G-g-fB.loqFHTb5-UtsYdmrBBgSQ7RZ9_IULyclWtN1Pg')
